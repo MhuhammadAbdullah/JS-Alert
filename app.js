@@ -24,8 +24,51 @@
 // Assignment : 02
 // Question : 01
 
-// var username=("Abdullah")
-// alert(username);
+// var username = ("Abdullah")
+// alert("username: " + username);
 
 // Question : 02
 
+// var myName = "Muhammad Abdullah"; 
+// alert("My Name: " + myName);
+
+// Question : 03
+
+// var message;
+// message = "Hello World";
+// alert(message);
+
+// Question : 04
+
+// var studentName = "Muhammad Abdullah";
+// var studentAge = "18 years";
+// var studentCourse = "Web & App Development";
+
+// alert("Student Name: " + studentName);
+// alert("Student Age: " + studentAge);
+// alert("Course Enrolled: " + studentCourse);
+
+// Question : 05
+
+// var message = "Welcome to Saylani Mass IT Training! \n Welcome to Saylani Mass IT \n Welcome to Saylani Mass \n Welcome to Saylani \n Welcome to \n Welcom";
+// alert(message); 
+
+// Question : 06
+
+// var email = "example@example.com";
+// alert("My email address is " + email);
+
+// Question : 07
+
+// var book = ("A smarter way to learn JavaScript");
+// alert(book);
+
+// Question : 08
+
+// var html = "A smarter way to learn JavaScript";
+// document.write(html);
+
+// Question : 09
+
+// var specialString = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+// alert(specialString);
