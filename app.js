@@ -23,3 +23,9 @@
 
 // Assignment : 02
 // Question : 01
+
+// var username=("Abdullah")
+// alert(username);
+
+// Question : 02
+
