@@ -29,8 +29,8 @@
 
 // Question : 02
 
-// var myName = "Muhammad Abdullah"; 
-// alert("My Name: " + myName);
+// var myName = "myName"; 
+// alert(myName);
 
 // Question : 03
 
