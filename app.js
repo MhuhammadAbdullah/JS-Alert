@@ -25,7 +25,7 @@
 // Question : 01
 
 // var username = ("Abdullah")
-// alert("username: " + username);
+// alert("username:" + username);
 
 // Question : 02
 
