@@ -24,8 +24,8 @@
 // Assignment : 02
 // Question : 01
 
-// var username = ("Abdullah")
-// alert("username:" + username);
+// var username = ("username")
+// alert(username);
 
 // Question : 02
 
